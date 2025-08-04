@@ -46,22 +46,28 @@ Let me know if you'd like to add:
 - A `LICENSE` badge or file  
 - A `Live Demo` section if you're deploying it
 
-To Start Working 
 
-/app/page.tsx <---- is our main route
-/app/labs/page.tsx <---- for labs page
-/app/home/page.tsx <---- for home page
-/app/components/   <---- all components from shadcn
-/public/fonts           <---- fonts definitely
 
 
 I can generate all of that for you instantly.
-
 ---
 
 ## 🛠 Tech Stack
 
 ```ts
+
+- To start Working
+/app/
+│
+├── page.tsx           → Main route (`/`)
+├── home/page.tsx      → Home page (`/home`)
+├── labs/page.tsx      → Labs archive page (`/labs`)
+│
+├── components/        → All shared UI components (built with ShadCN)
+│
+/public/fonts/         → Custom fonts used throughout the app
+
+
 // Frontend stack
 - Next.js (App Router)
 - Turbopack

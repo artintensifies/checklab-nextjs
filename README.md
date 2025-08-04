@@ -57,11 +57,13 @@ I can generate all of that for you instantly.
 ```ts
 
 - To start Working
-/app/
+/frontend/
 │
-├── page.tsx           → Main route (`/`)
-├── home/page.tsx      → Home page (`/home`)
-├── labs/page.tsx      → Labs archive page (`/labs`)
+├── app/page.tsx           → Main route (`/`)
+├── app/home/page.tsx      → Home page (`/home`)
+├── app/labs/page.tsx      → Labs archive page (`/labs`)
+├── app/claim/page.ts      → Claim project page (`/claim`)
+├── app/components/        → local components made by me using ShadCN
 │
 ├── components/        → All shared UI components (built with ShadCN)
 │

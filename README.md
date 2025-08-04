@@ -38,16 +38,7 @@ here are some screenshots if you wanted to build similar (Reddit, X, Github) UI 
 
 Any query, contact me: as4871484@gmail.com i would love to help you )
 
-## 🛠 Tech Stack
-
-```ts
-// Frontend stack
-- Next.js (App Router)
-- Turbopack
-- TypeScript
-****
-
-
+---
 
 Let me know if you'd like to add:
 - `Installation` and `Usage` steps  
@@ -55,4 +46,40 @@ Let me know if you'd like to add:
 - A `LICENSE` badge or file  
 - A `Live Demo` section if you're deploying it
 
+To Start Working 
+
+/app/page.tsx <---- is our main route
+/app/labs/page.tsx <---- for labs page
+/app/home/page.tsx <---- for home page
+/app/components/   <---- all components from shadcn
+/public/fonts           <---- fonts definitely
+
+
 I can generate all of that for you instantly.
+
+---
+
+## 🛠 Tech Stack
+
+```ts
+// Frontend stack
+- Next.js (App Router)
+- Turbopack
+- TypeScript
+- Shadcn
+- Tailwind CSS
+
+
+Vercel for deployment
+
+---
+
+// Backend stack
+Python Fast API
+Supabase for DB
+
+
+Render for deployment
+
+
+****

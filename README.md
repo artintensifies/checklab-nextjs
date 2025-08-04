@@ -11,6 +11,8 @@ Whether it's an incomplete AI model, an old simulation, or a concept paper with 
 - A **collaborative platform** for researchers, developers, and explorers to revisit and build upon forgotten ideas.
 - A space where digital artifacts that **never got their chance** are given one.
 
+Any query, contact me: as4871484@gmail.com i would love to help you )
+
 ## 🛠 Tech Stack
 
 ```ts

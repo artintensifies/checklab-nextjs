@@ -3,7 +3,24 @@
 **Checklab** is an open-source archived library that preserves **abandoned, crucial, and future-oriented** repositories, research papers, and digital assets.  
 It exists to give forgotten innovations a second life — enabling people to **study**, **collaborate**, and **build upon** them.
 
+
+
 Whether it's an incomplete AI model, an old simulation, or a concept paper with promise — Checklab is where it’s stored, explored, and potentially revived.
+
+---
+
+## ❗ Project Status
+
+I am **no longer actively maintaining** Checklab.  
+However, I believe in its purpose and want it to live on.
+
+> ✅ **The community is now free to use, fork, improve, and evolve it** however they see fit.
+
+Feel free to build on top of it, adapt it for your use case, or take it in an entirely new direction.
+
+---
+
+## Screenshots
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5dc68c53-0d92-491d-aef1-7f839dae2311" />
 

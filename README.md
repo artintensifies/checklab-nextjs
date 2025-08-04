@@ -5,6 +5,12 @@ It exists to give forgotten innovations a second life — enabling people to **s
 
 Whether it's an incomplete AI model, an old simulation, or a concept paper with promise — Checklab is where it’s stored, explored, and potentially revived.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8d927fdb-8ab4-4f1c-b2b0-ed82ffdea1e5" />
+
+here are some screenshots if you wanted to build similar (Reddit, X, Github) UI you can take the code too
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/94850a4b-9919-4d80-b909-902d3c1c3075" />
+
 ## 🔍 What It Is
 
 - A **community-driven archive** of abandoned yet meaningful digital work.

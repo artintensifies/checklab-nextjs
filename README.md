@@ -1,11 +1,11 @@
 # Checklab
 
 **Checklab** is an open-source archived library that preserves **abandoned, crucial, and future-oriented** repositories, research papers, and digital assets.  
-It exists to give forgotten innovations a second life — enabling people to **study**, **collaborate**, and **build upon** them.
+It exists to give forgotten innovations a second life enabling people to **study**, **collaborate**, and **build upon** them.
 
 
 
-Whether it's an incomplete AI model, an old simulation, or a concept paper with promise — Checklab is where it’s stored, explored, and potentially revived.
+Whether it's an incomplete AI model, an old simulation, or a concept paper with promise Checklab is where it’s stored, explored, and potentially revived.
 
 ---
 
